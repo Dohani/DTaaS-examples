@@ -1,4 +1,4 @@
-protobuf==3.20.1
+protobuf==5.29.6
 zmq
 google-api-python-client
 pika
